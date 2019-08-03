@@ -1,0 +1,14 @@
+#################  
+## npm
+#################
+
+npm-debug.log
+node_modules/
+
+#################  
+## php
+#################
+vendor/
+*.txt
+*.flac
+service-account.json
